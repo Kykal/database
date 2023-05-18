@@ -39,7 +39,7 @@
 		},
 		{
 			"title": "Music player",
-			"short_description": "Play, stop, adjust volume, pick another track, move in the track's timeline.",
+			"short_description": "Play, stop, set volume, select track, move in the track's timeline.",
 			"description": "",
 			"repositories": [
 				{
