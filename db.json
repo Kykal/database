@@ -10,6 +10,7 @@
 			"images": [
 				"https://cdn.discordapp.com/attachments/1108651890876616775/1108652088042471434/gamering.png"
 			],
+			"a": "a",
 			"stack": [
 				"NextJS",
 				"ReactJS",
