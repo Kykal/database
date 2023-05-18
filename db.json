@@ -14,7 +14,7 @@
 				"Firebase",
 				"MaterialUI"
 			],
-			"images": [
+			"imgs": [
 				"https://cdn.discordapp.com/attachments/1108651890876616775/1108652088042471434/gamering.png"
 			]
 		},
@@ -32,7 +32,7 @@
 				"Firebase",
 				"Mantine"
 			],
-			"images": [
+			"imgs": [
 				"https://cdn.discordapp.com/attachments/1108652178035449926/1108652215100522517/gameringAdministratorTool.png"
 			]
 		},
@@ -53,7 +53,7 @@
 				"ReactJS",
 				"Styled-Components"
 			],
-			"images": [
+			"imgs": [
 				"https://cdn.discordapp.com/attachments/1108652616973549568/1108652619225890866/musicPlayer.png"
 			]
 		},
@@ -77,7 +77,7 @@
 				"Styled-Components",
 				"DDragon"
 			],
-			"images": [
+			"imgs": [
 				"https://cdn.discordapp.com/attachments/1108652554507780156/1108652557640945744/leagueOfLegendsChampions.png"
 			]
 		},
@@ -97,7 +97,7 @@
 				"ReactJS",
 				"MaterialUI"
 			],
-			"images": [
+			"imgs": [
 				"https://cdn.discordapp.com/attachments/1108652437142786068/1108652455052464158/githubBagdeGenerator.png"
 			]
 		}
