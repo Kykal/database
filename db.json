@@ -13,6 +13,9 @@
 				"ReduxJS",
 				"Firebase",
 				"MaterialUI"
+			],
+			"images": [
+				"https://cdn.discordapp.com/attachments/1108651890876616775/1108652088042471434/gamering.png"
 			]
 		},
 		{
@@ -28,6 +31,9 @@
 				"ReduxJS",
 				"Firebase",
 				"Mantine"
+			],
+			"images": [
+				"https://cdn.discordapp.com/attachments/1108652178035449926/1108652215100522517/gameringAdministratorTool.png"
 			]
 		},
 		{
@@ -46,6 +52,9 @@
 				"Vite",
 				"ReactJS",
 				"Styled-Components"
+			],
+			"images": [
+				"https://cdn.discordapp.com/attachments/1108652616973549568/1108652619225890866/musicPlayer.png"
 			]
 		},
 		{
@@ -67,6 +76,9 @@
 				"React Router",
 				"Styled-Components",
 				"DDragon"
+			],
+			"images": [
+				"https://cdn.discordapp.com/attachments/1108652554507780156/1108652557640945744/leagueOfLegendsChampions.png"
 			]
 		},
 		{
@@ -84,6 +96,9 @@
 			"stack": [
 				"ReactJS",
 				"MaterialUI"
+			],
+			"images": [
+				"https://cdn.discordapp.com/attachments/1108652437142786068/1108652455052464158/githubBagdeGenerator.png"
 			]
 		}
 	]
