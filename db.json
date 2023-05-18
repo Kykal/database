@@ -21,8 +21,8 @@
 		},
 		{
 			"title": "Gamering Administrator Tool",
-			"subtitle": "CRUD Desktop Application",
-			"short_description": "Inventory System. Create, read, update and delete products. Query and paginate products on the search table. Manage Gamering web application products.",
+			"subtitle": "Inventory System Desktop Application",
+			"short_description": "Create, Read, Update and Delete products. Query and paginate products on the search table. Manage Gamering web application products.",
 			"description": "",
 			"route": "/project/gamering-administrator-tool",
 			"images": [
