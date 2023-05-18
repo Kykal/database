@@ -2,6 +2,7 @@
 	"projects": [
 		{
 			"title": "Gamering",
+			"subtitle": "E-Commerce Web Application",
 			"short_description": "Web application where you can query for computer components, add them to your cart, authenticate and 'purchase' your products.",
 			"description": "",
 			"website": "https://egamering.vercel.app/",
@@ -11,6 +12,77 @@
 				"ReactJS",
 				"ReduxJS",
 				"Firebase",
+				"MaterialUI"
+			]
+		},
+		{
+			"title": "Gamering Administrator Tool",
+			"subtitle": "",
+			"short_description": "CRUD Desktop Application",
+			"description": "Inventory System. Create, read, update and delete products. Query and paginate products on the search table. Manage Gamering web application products.",
+			"route": "/project/gamering-administrator-tool",
+			"stack": [
+				"Tauri",
+				"NextJS",
+				"ReactJS",
+				"ReduxJS",
+				"Firebase",
+				"Mantine"
+			]
+		},
+		{
+			"title": "Music player",
+			"short_description": "Play, stop, adjust volume, pick another track, move in the track's timeline.",
+			"description": "",
+			"repositories": [
+				{
+					"dependency": "GitHub",
+					"url": "https://github.com/Kykal/music-player"
+				}
+			],
+			"website": "https://music-player-kykal.vercel.app/",
+			"route": "/project/music-player",
+			"stack": [
+				"Vite",
+				"ReactJS",
+				"Styled-Components"
+			]
+		},
+		{
+			"title": "League of Legends Champions Data",
+			"subtitle": "Wiki-like web application",
+			"short_description": "Query your LoL champion consuming Riot's official Rest API. See a preview of your champions, their skins, abilities, and cost.",
+			"description": "",
+			"repositories": [
+				{
+					"dependency": "GitHub",
+					"url": "https://github.com/Kykal/league-of-legends-champions-data"
+				}
+			],
+			"website": "https://league-of-legends-champions-data-kykal.vercel.app/",
+			"route": "/project/league-of-legends-championes-data",
+			"stack": [
+				"ReactJS",
+				"ReduxJS",
+				"React Router",
+				"Styled-Components",
+				"DDragon"
+			]
+		},
+		{
+			"title": "GitHub Badge Generator",
+			"short_description": "Fast-generate your badges with its both optional logo and version for GitHub or another depedency! Badge is color-theme-ready of the technology you input. Clipboard-copy ready! Markdown-copy ready!",
+			"description": "",
+			"repositories": [
+				{
+					"dependency": "GitHub",
+					"url": "https://github.com/Kykal/github-badge-generator"
+				}
+			],
+			"website": "https://github-badge-generator-kykal.vercel.app/",
+			"route": "/project/github-badge-generator",
+			"stack": [
+				"ReactJS",
 				"MaterialUI"
 			]
 		}
