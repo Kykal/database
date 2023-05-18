@@ -7,15 +7,15 @@
 			"description": "",
 			"website": "https://egamering.vercel.app/",
 			"route": "/project/gamering",
+			"images": [
+				"https://cdn.discordapp.com/attachments/1108651890876616775/1108652088042471434/gamering.png"
+			],
 			"stack": [
 				"NextJS",
 				"ReactJS",
 				"ReduxJS",
 				"Firebase",
 				"MaterialUI"
-			],
-			"imgs": [
-				"https://cdn.discordapp.com/attachments/1108651890876616775/1108652088042471434/gamering.png"
 			]
 		},
 		{
@@ -24,6 +24,9 @@
 			"short_description": "CRUD Desktop Application",
 			"description": "Inventory System. Create, read, update and delete products. Query and paginate products on the search table. Manage Gamering web application products.",
 			"route": "/project/gamering-administrator-tool",
+			"images": [
+				"https://cdn.discordapp.com/attachments/1108652178035449926/1108652215100522517/gameringAdministratorTool.png"
+			],
 			"stack": [
 				"Tauri",
 				"NextJS",
@@ -31,9 +34,6 @@
 				"ReduxJS",
 				"Firebase",
 				"Mantine"
-			],
-			"imgs": [
-				"https://cdn.discordapp.com/attachments/1108652178035449926/1108652215100522517/gameringAdministratorTool.png"
 			]
 		},
 		{
@@ -48,13 +48,13 @@
 			],
 			"website": "https://music-player-kykal.vercel.app/",
 			"route": "/project/music-player",
+			"images": [
+				"https://cdn.discordapp.com/attachments/1108652616973549568/1108652619225890866/musicPlayer.png"
+			],
 			"stack": [
 				"Vite",
 				"ReactJS",
 				"Styled-Components"
-			],
-			"imgs": [
-				"https://cdn.discordapp.com/attachments/1108652616973549568/1108652619225890866/musicPlayer.png"
 			]
 		},
 		{
@@ -70,15 +70,15 @@
 			],
 			"website": "https://league-of-legends-champions-data-kykal.vercel.app/",
 			"route": "/project/league-of-legends-championes-data",
+			"images": [
+				"https://cdn.discordapp.com/attachments/1108652554507780156/1108652557640945744/leagueOfLegendsChampions.png"
+			],
 			"stack": [
 				"ReactJS",
 				"ReduxJS",
 				"React Router",
 				"Styled-Components",
 				"DDragon"
-			],
-			"imgs": [
-				"https://cdn.discordapp.com/attachments/1108652554507780156/1108652557640945744/leagueOfLegendsChampions.png"
 			]
 		},
 		{
@@ -93,12 +93,12 @@
 			],
 			"website": "https://github-badge-generator-kykal.vercel.app/",
 			"route": "/project/github-badge-generator",
+			"images": [
+				"https://cdn.discordapp.com/attachments/1108652437142786068/1108652455052464158/githubBagdeGenerator.png"
+			],
 			"stack": [
 				"ReactJS",
 				"MaterialUI"
-			],
-			"imgs": [
-				"https://cdn.discordapp.com/attachments/1108652437142786068/1108652455052464158/githubBagdeGenerator.png"
 			]
 		}
 	]
