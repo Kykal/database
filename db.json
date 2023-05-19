@@ -37,7 +37,16 @@
 			"description": "",
 			"route": "/project/gamering-administrator-tool",
 			"images": [
-				"https://cdn.discordapp.com/attachments/1108652178035449926/1108652215100522517/gameringAdministratorTool.png"
+				"https://cdn.discordapp.com/attachments/1108652178035449926/1109044510710841354/image.png",
+				"https://cdn.discordapp.com/attachments/1108652178035449926/1109044597138661446/image.png",
+				"https://cdn.discordapp.com/attachments/1108652178035449926/1109044647352868864/image.png",
+				"https://cdn.discordapp.com/attachments/1108652178035449926/1109044696845660230/image.png",
+				"https://cdn.discordapp.com/attachments/1108652178035449926/1109044747970027550/image.png",
+				"https://cdn.discordapp.com/attachments/1108652178035449926/1109044823010312252/image.png",
+				"https://cdn.discordapp.com/attachments/1108652178035449926/1109044969831936040/image.png",
+				"https://cdn.discordapp.com/attachments/1108652178035449926/1109045115416223764/image.png",
+				"https://cdn.discordapp.com/attachments/1108652178035449926/1109045137033666620/image.png",
+				"https://cdn.discordapp.com/attachments/1108652178035449926/1109045788178395256/image.png"
 			],
 			"stack": [
 				"Tauri",
