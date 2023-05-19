@@ -8,7 +8,17 @@
 			"website": "https://egamering.vercel.app/",
 			"route": "/project/gamering",
 			"images": [
-				"https://cdn.discordapp.com/attachments/1108651890876616775/1108652088042471434/gamering.png"
+				"https://cdn.discordapp.com/attachments/1108651890876616775/1108652088042471434/gamering.png",
+				"https://cdn.discordapp.com/attachments/1108651890876616775/1109042702512832572/image.png",
+				"https://cdn.discordapp.com/attachments/1108651890876616775/1109042741528236072/image.png",
+				"https://cdn.discordapp.com/attachments/1108651890876616775/1109042788147929129/image.png",
+				"https://cdn.discordapp.com/attachments/1108651890876616775/1109042303567413279/image.png",
+				"https://cdn.discordapp.com/attachments/1108651890876616775/1109042472660779018/image.png",
+				"https://cdn.discordapp.com/attachments/1108651890876616775/1109042632614740069/image.png",
+				"https://cdn.discordapp.com/attachments/1108651890876616775/1109042924760616970/image.png",
+				"https://cdn.discordapp.com/attachments/1108651890876616775/1109043074698592326/image.png",
+				"https://cdn.discordapp.com/attachments/1108651890876616775/1109042827071074355/image.png",
+				"https://cdn.discordapp.com/attachments/1108651890876616775/1109043001457651772/image.png"
 			],
 			"a": "a",
 			"stack": [
